@@ -1,0 +1,41 @@
+
+        .body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            color: #333;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+        .header {
+            background-color: #ff69b4;
+            color: #fff;
+            padding: 10px 0;
+        }
+        .img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+        }
+        .content {
+            padding: 20px;
+        }
+        .dwarfs-list {
+            list-style-type: none;
+            padding: 0;
+        }
+        .dwarfs-list li {
+            background-color: #fff;
+            border: 1px solid #ddd;
+            margin: 5px;
+            padding: 10px;
+            border-radius: 5px;
+        }
+        .footer {
+            background-color: #ff69b4;
+            color: #fff;
+            padding: 10px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
